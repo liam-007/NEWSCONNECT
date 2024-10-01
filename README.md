@@ -12,3 +12,20 @@
 - **Dark Mode**: Switch between **light** and **dark themes** based on your preference for better readability.
 - **Offline Access**: View your saved articles even when you are offline, perfect for reading on the go without an internet connection.
 - **Settings Page**: Manage your profile settings, switch between light/dark modes, and log out when needed.
+
+  ### Prerequisites
+- **Android Studio** installed
+- **Java 8** or higher
+- **Firebase Account** (set up Firebase Authentication and Firestore)
+
+## How to Use the App
+
+1. **Register**: Create an account using email/password or log in directly with your Google account.
+2. **Explore Headlines**: Browse the latest headlines curated from trusted sources.
+3. **Search for News**: Use the search functionality to find articles on any topic.
+4. **Save Articles**: Save your favorite articles to your personalized list for later reading.
+5. **View Saved Articles**: Go to the **Favorites** section to see all your saved news articles.
+6. **Switch Themes**: Switch between **light** and **dark mode** in the settings.
+7. **Log Out**: Log out from the app through the settings menu if needed.
+
+   
