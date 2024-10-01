@@ -13,10 +13,13 @@
 - **Offline Access**: View your saved articles even when you are offline, perfect for reading on the go without an internet connection.
 - **Settings Page**: Manage your profile settings, switch between light/dark modes, and log out when needed.
 
-  ### Prerequisites
+
+   ### Prerequisites
+
 - **Android Studio** installed
 - **Java 8** or higher
 - **Firebase Account** (set up Firebase Authentication and Firestore)
+
 
 ## How to Use the App
 
@@ -28,4 +31,19 @@
 6. **Switch Themes**: Switch between **light** and **dark mode** in the settings.
 7. **Log Out**: Log out from the app through the settings menu if needed.
 
+## Technologies Used
+
+- **Kotlin**: The primary programming language used for Android development.
+- **Firebase Authentication**: Secure user authentication with email/password and Google Sign-In.
+- **Room Database**: Local storage of favorite news articles.
+- **Retrofit**: Used for networking and fetching news articles via APIs.
+- **Glide**: For efficient image loading and caching.
+- **Coroutines**: For handling asynchronous tasks and making the app more responsive.
+
+
+## Contact
+
+For questions or feedback, feel free to reach out:
+
+- **Email**: **liamcole0705@gmail.com**
    
