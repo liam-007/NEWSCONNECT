@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">NEWSCONNECT</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="default_web_client_id">YOUR_WEB_CLIENT_ID</string>
+    <string name="exit">Exit</string>
+    <string name="don_t_have_an_account_register_here">Don\'t have an account? Register here.</string>
+    <string name="login">Login</string>
+    <string name="password">Password</string>
+    <string name="email">Email</string>
+    <string name="news_connect_is_a_powerful_news_aggregator_app_designed_to_bring_you_the_latest_and_most_relevant_news_from_across_the_world_whether_you_re_interested_in_politics_sports_technology_or_entertainment_news_connect_curates_articles_from_trusted_sources_to_keep_you_informed_with_a_user_friendly_interface_and_customizable_categories_users_can_easily_browse_through_news_articles_save_their_favorites_and_even_read_offline_news_connect_also_allows_users_to_search_for_specific_topics_and_stay_updated_on_the_go_built_with_simplicity_and_accessibility_in_mind_news_connect_ensures_that_you_get_timely_and_reliable_news_tailored_to_your_interests_join_the_community_of_informed_readers_with_news_connect_today">News Connect is a powerful news aggregator app designed to bring you the latest and most relevant news from across the world. Whether you’re interested in politics, sports, technology, or entertainment, News Connect curates articles from trusted sources to keep you informed. With a user-friendly interface and customizable categories, users can easily browse through news articles, save their favorites, and even read offline. News Connect also allows users to search for specific topics and stay updated on the go. Built with simplicity and accessibility in mind, News Connect ensures that you get timely and reliable news tailored to your interests. Join the community of informed readers with News Connect today!</string>
+    <string name="login_page">Login Page</string>
+    <string name="registration_page">Registration Page</string>
+</resources>
